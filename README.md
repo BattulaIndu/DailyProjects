@@ -1,1 +1,3 @@
 # DailyProjects
+
+Training sessions
